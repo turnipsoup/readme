@@ -6,6 +6,7 @@
 A self-motivated hard-worker. 2+ years directing start-up community laboratory. 7+ years IT and 
 programming experience. Intellectually curious and willing to take on large challenges. 
 
+---
 
 ### Areas of Experience
 - Wet laboratory techniques 
@@ -19,6 +20,8 @@ programming experience. Intellectually curious and willing to take on large chal
 - Software development 
 - Automation   
 - Gardening 
+
+---
 
 ### Work Experience
    
@@ -77,7 +80,6 @@ discussions/talks
 -  Worked with citizens on prospective projects to ensure that their scientific endeavors were 
 fruitful 
  
- 
 ***Laboratory Assistant*** - September 2012 to June 2013 (Contract) 
 The Evergreen State College - Olympia, Washington 
  
@@ -87,6 +89,8 @@ creation and  maintenance of  reagents and solutions, tutoring students weekly
 -  Ensured that the educational quality of  all laboratory exercises was top notch 
 -  Tutoring of 60+ students on topics ranging from introduction of general chemistry to 
 advanced organic chemistry 
+
+---
 
 ### Education
  
