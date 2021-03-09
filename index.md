@@ -102,6 +102,8 @@ _Topics of Study_: Chemistry (inorganic and organic), Biochemistry, Genetics, Ag
 _Undergraduate Independent Research_: Novel attempts at radical oxidation of  fatty acid methyl 
 esters in a non-polar environment 
 
+---
+
 ### Technical Skills
  
 GC/MS, FTIR, LC/MS, NMR, RotoVap, SDS 
