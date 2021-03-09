@@ -1,5 +1,5 @@
 #### Jeremy Heckt 
-##### 1+2067992583 | jeremy@jeremyheckt.com 
+##### jeremy@jeremyheckt.com 
 ***Professional Blog***: [jeremy-heckt.medium.com](jeremy-heckt.medium.com) | ***Personal Blog***: [jeremyheckt.mataroa.blog](jeremyheckt.mataroa.blog)
 
 ### Summary
