@@ -2,10 +2,6 @@
 ##### jeremy@jeremyheckt.com 
 ***Professional Blog***: [jeremy-heckt.medium.com](jeremy-heckt.medium.com) | ***Personal Blog***: [jeremyheckt.mataroa.blog](jeremyheckt.mataroa.blog)
 
-### Summary
-A self-motivated hard-worker. 2+ years directing start-up community laboratory. 7+ years IT and 
-programming experience. Intellectually curious and willing to take on large challenges. 
-
 ---
 
 ### Areas of Experience
