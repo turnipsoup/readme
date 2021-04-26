@@ -1,6 +1,6 @@
 #### Jeremy Heckt 
 ##### jeremy@jeremyheckt.com 
-***Professional Blog***: [jeremy-heckt.medium.com](jeremy-heckt.medium.com) | ***Personal Blog***: [jeremyheckt.mataroa.blog](jeremyheckt.mataroa.blog)
+***Professional Blog***: [https://jeremy-heckt.medium.com](https://jeremy-heckt.medium.com) | ***Personal Blog***: [https://jeremyheckt.mataroa.blog](https://jeremyheckt.mataroa.blog)
 
 ---
 
