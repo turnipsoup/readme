@@ -5,16 +5,16 @@
 ---
 
 ### Areas of Experience
+- Data science
+- Software development   
+- Linux Administration 
+- Machine learning
+- Automation
+- Technical writing 
 - Wet laboratory techniques 
 - Chemical analysis 
-- Laboratory management 
-- Machine learning
-- Data science   
-- Technical writing 
 - Experimental design 
-- Linux Administration 
-- Software development 
-- Automation   
+- Laboratory management 
 - Gardening 
 
 ---
