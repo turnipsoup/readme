@@ -10,6 +10,7 @@
 - Linux Administration 
 - Machine learning
 - Automation
+- Security
 - Technical writing 
 - Wet laboratory techniques 
 - Chemical analysis 
@@ -102,9 +103,9 @@ esters in a non-polar environment
 
 ### Technical Skills
  
-GC/MS, FTIR, LC/MS, NMR, RotoVap, SDS 
+Python, JavaScript, Golang, Shell scripting
+Linux, Windows, Microsoft Office/Libre Office, Security CTF competitor
 CompTIA Network+ Certified, SIP School Certified 
-Python, JavaScript, Golang, Shell scripting 
-Linux, Windows, Microsoft Office/Libre Office, CTF competitor
+GC/MS, FTIR, LC/MS, NMR, RotoVap, SDS 
  
 Native English, written French literacy 
