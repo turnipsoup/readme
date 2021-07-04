@@ -3,10 +3,6 @@
 
 ---
 
-A motivated, creative hard worker. Chemistry degree, 4+ years programming experience, previous makerspace director, gardener - I will greatly aid your research and will strongly benefit laboratories. 
-
----
-
 ### Areas of Experience
 - Data science
 - Software development   
