@@ -11,9 +11,8 @@ A motivated, creative hard worker. Chemistry degree, 4+ years programming experi
 - Data science
 - Software development   
 - Linux Administration 
-- Machine learning
 - Automation
-- Security
+- Machine learning
 - Technical writing 
 - Wet laboratory techniques 
 - Chemical analysis 
