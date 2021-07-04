@@ -101,8 +101,7 @@ esters in a non-polar environment
 
 ### Technical Skills
  
-Python, Golang
-Linux, Windows, Microsoft Office/Libre Office, Security CTF competitor
+Python, Golang, Linux, Windows, Microsoft Office/Libre Office, Security CTF competitor
 GC/MS, FTIR, LC/MS, NMR, RotoVap, SDS 
  
 Native English, written French literacy 
