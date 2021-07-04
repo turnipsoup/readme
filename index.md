@@ -106,9 +106,8 @@ esters in a non-polar environment
 
 ### Technical Skills
  
-Python, JavaScript, Golang, Shell scripting
+Python, Golang
 Linux, Windows, Microsoft Office/Libre Office, Security CTF competitor
-CompTIA Network+ Certified, SIP School Certified 
 GC/MS, FTIR, LC/MS, NMR, RotoVap, SDS 
  
 Native English, written French literacy 
