@@ -1,6 +1,9 @@
 #### Jeremy Heckt 
 ##### jeremy@jeremyheckt.com 
-***Professional Blog***: [https://jeremy-heckt.medium.com](https://jeremy-heckt.medium.com) | ***Personal Blog***: [https://jeremyheckt.mataroa.blog](https://jeremyheckt.mataroa.blog)
+
+---
+
+A motivated, creative hard worker. Chemistry degree, 4+ years programming experience, previous makerspace director, gardener - I will greatly aid your research and will strongly benefit laboratories. 
 
 ---
 
