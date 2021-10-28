@@ -4,10 +4,10 @@
 ---
 
 ### Areas of Experience
-- Data science
-- Software development   
+- Data science  
 - Linux Administration 
 - Automation
+- Software development 
 - Machine learning
 - Technical writing 
 - Wet laboratory techniques 
@@ -18,7 +18,7 @@
 
 ---
 
-### Work Experience
+### Currently Doing The Following
    
 ***Application Support Engineer*** | Voice DevOps - February 2018 to Present 
 Intermedia.NET, Inc - Bellevue, Washington 
@@ -40,6 +40,7 @@ based micro-service systems.
 OpenNMS. 
 -  Ensure SQL servers and other data-stores are functioning and up to date 
  
+## Previously I Was Doing
 
 ***VoIP Engineer*** - August 2014 to February 2018 
 Intermedia.NET, Inc - Bellevue, Washington 
@@ -94,14 +95,11 @@ The Evergreen State College - Olympia, Washington
  
 _Topics of Study_: Chemistry (inorganic and organic), Biochemistry, Genetics, Agronomy, Botany 
  
-_Undergraduate Independent Research_: Novel attempts at radical oxidation of  fatty acid methyl 
-esters in a non-polar environment 
+ 
+### Academic Research I Have Lead
+- Novel attempts at radical oxidation of fatty acid methyl-esters in a non-polar environment 
 
 ---
 
-### Technical Skills
- 
-Python, Golang, Linux, Windows, Microsoft Office/Libre Office, Security CTF competitor
-GC/MS, FTIR, LC/MS, NMR, RotoVap, SDS 
- 
-Native English, written French literacy 
+### Other Information
+Je peux lire couramment dans Français.
