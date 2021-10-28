@@ -18,7 +18,7 @@
 
 ---
 
-### Currently Doing The Following
+### I am Currently Doing The Following
    
 ***Application Support Engineer*** | Voice DevOps - February 2018 to Present 
 Intermedia.NET, Inc - Bellevue, Washington 
@@ -40,7 +40,7 @@ based micro-service systems.
 OpenNMS. 
 -  Ensure SQL servers and other data-stores are functioning and up to date 
  
-## Previously I Was Doing
+### Previously I Was Doing
 
 ***VoIP Engineer*** - August 2014 to February 2018 
 Intermedia.NET, Inc - Bellevue, Washington 
