@@ -4,12 +4,12 @@
 ---
 
 ### Areas of Experience
-- Data science  
+ - Automation
 - Linux Administration 
-- Automation
-- Software development 
-- Machine learning
-- Technical writing 
+- Software development
+- Technical writing
+- Data science  
+- Machine learning 
 - Wet laboratory techniques 
 - Chemical analysis 
 - Experimental design 
@@ -97,9 +97,9 @@ _Topics of Study_: Chemistry (inorganic and organic), Biochemistry, Genetics, Ag
  
  
 ### Academic Research I Have Lead
-- Novel attempts at radical oxidation of fatty acid methyl-esters in a non-polar environment 
+- _Novel Attempts at Radical Oxidation of Fatty Acid Methyl-Esters in a Non-Polar Environment_
 
 ---
 
 ### Other Information
-Je peux lire couramment dans Français.
+I can read fluently in French (Je peux lire couramment dans Français)
