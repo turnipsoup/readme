@@ -1,5 +1,7 @@
 #### Jeremy Heckt 
 ##### jeremy@jeremyheckt.com 
+##### Professional Blog: https://jeremy-heckt.medium.com/
+##### Personal Blog: https://jeremyheckt.mataroa.blog/ 
 
 ---
 
