@@ -1,6 +1,6 @@
 #### Jeremy Heckt 
 ##### jeremy@jeremyheckt.com 
-##### Professional Blog: https://jeremy-heckt.medium.com/
+##### Professional Blog: https://medium.com/lets-eat-labs-blog
 ##### Personal Blog: https://jeremyheckt.mataroa.blog/ 
 
 ---
