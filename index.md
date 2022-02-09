@@ -6,8 +6,8 @@
 ---
 
 ### Areas of Experience
- - Automation
-- Linux Administration 
+- Automation
+- Linux/Unix Administration 
 - Software development
 - Technical writing
 - Data science  
