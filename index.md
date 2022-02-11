@@ -41,6 +41,12 @@ based micro-service systems.
 -  Systems analysis and wide-scale monitoring using technologies such as Grafana and 
 OpenNMS. 
 -  Ensure SQL servers and other data-stores are functioning and up to date 
+
+***Freelance Godot Developer*** | Contact me at jeremy at jeremy heckt dot com
+- GDScript
+- Extensive 2D development experience
+- Pixel art experience
+- Animation experience
  
 ### Previously I Was Doing
 
