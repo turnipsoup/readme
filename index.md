@@ -20,7 +20,7 @@
 - Gardening 
 
 ---
-### I am Currently Doing The Following
+### I Am Currently Doing The Following
    
 ***Application Support Engineer*** | Voice DevOps - February 2018 to Present 
 Intermedia.NET, Inc - Bellevue, Washington 
