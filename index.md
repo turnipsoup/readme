@@ -1,7 +1,8 @@
 #### Jeremy Heckt 
 ##### jeremy@jeremyheckt.com 
-##### Professional Blog: https://medium.com/lets-eat-labs-blog
-##### Personal Blog: https://jeremyheckt.mataroa.blog/ 
+##### Professional Blog: [medium.com/lets-eat-labs-blog](https://medium.com/lets-eat-labs-blog)
+##### Personal Blog: [jeremyheckt.mataroa.blog/](https://jeremyheckt.mataroa.blog/)
+##### Game Reviews: [galleywest.sdf.org](http://galleywest.sdf.org)
 
 ---
 
