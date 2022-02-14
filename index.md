@@ -20,7 +20,6 @@
 - Gardening 
 
 ---
-
 ### I am Currently Doing The Following
    
 ***Application Support Engineer*** | Voice DevOps - February 2018 to Present 
