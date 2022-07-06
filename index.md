@@ -18,17 +18,18 @@
 - Gardening 
 
 ---
+
 ### I Am Currently Doing The Following
-   
+
 ***DevOps Engineer*** | Voice DevOps
- 
+
 _Responsibilities_: Administration and deployment of  B/OSS telephony provisioning system, 
 create automated solutions to real-world problems, develop and deliver reports, ensure thorough data 
 integrity for both business and 911 related matters, contribute to 99.999% uptime, perform research into 
 newest technologies and enact plans to integrate them into our production solutions. 
 
 
-***Freelance Godot Developer*** | Contact me at jeremy at jeremy heckt dot com
+***Freelance Godot Developer*** | Contact me at jeremy[at]jeremyheckt[dot]com
 - GDScript
 - Extensive 2D development experience
 - Pixel art experience
@@ -38,7 +39,7 @@ newest technologies and enact plans to integrate them into our production soluti
 
 ***Director of  Marketing and Outreach*** - February 2015 to January 2017 
 HiveBio Community Laboratory - Seattle, Washington 
- 
+
 _Responsibilities_: Maintaining laboratory inventory, scientific coursework planning, maintenance 
 of  scientific equipment and facilities, community outreach, experimental design 
  
