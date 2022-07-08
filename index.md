@@ -1,8 +1,8 @@
 #### Jeremy Heckt 
 ##### jeremy@jeremyheckt.com 
-##### Professional Blog: [medium.com/lets-eat-labs-blog](https://medium.com/lets-eat-labs-blog)
-##### Personal Blog: [jeremyheckt.mataroa.blog/](https://jeremyheckt.mataroa.blog/)
-##### Game Reviews: [galleywest.sdf.org](http://galleywest.sdf.org)
+##### Professional Blog: [https://blog.letseatlabs.com](https://blog.letseatlabs.com)
+##### Personal Blog: [https://jeremyheckt.mataroa.blog/](https://jeremyheckt.mataroa.blog/)
+##### Game Reviews: [http://galleywest.sdf.org](http://galleywest.sdf.org)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### I Am Currently Doing The Following
 
-***DevOps Engineer*** | Voice DevOps
+***DevOps Engineer*** - Voice B/OSS
 
 _Responsibilities_: Administration and deployment of  B/OSS telephony provisioning system, 
 create automated solutions to real-world problems, develop and deliver reports, ensure thorough data 
@@ -29,11 +29,11 @@ integrity for both business and 911 related matters, contribute to 99.999% uptim
 newest technologies and enact plans to integrate them into our production solutions. 
 
 
-***Freelance Godot Developer*** | Contact me at jeremy[at]jeremyheckt[dot]com
+***Freelance Godot Developer*** - Contact me at jeremy[at]jeremyheckt[dot]com
 - GDScript
 - Extensive 2D development experience
 - Pixel art experience
-- Animation experience
+- Procreate experience
  
 ### Previously I Was Doing
 
@@ -57,7 +57,7 @@ The Evergreen State College - Olympia, Washington
  
 _Topics of Study_: Chemistry (inorganic and organic), Biochemistry, Genetics, Agronomy, Botany 
  
- 
+
 ### Academic Research I Have Lead
 - _Novel Attempts at Radical Oxidation of Fatty Acid Methyl-Esters in a Non-Polar Environment_
 
